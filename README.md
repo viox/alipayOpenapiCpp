@@ -5,7 +5,7 @@
 
 ### 移植更改内容如下：<br />
 + 该工程配置为 VS2013<br />
-+ 替换为 curl-7.57.0 & openssl-1.1.0g 版本的静态库<br />
++ libs 路径下的文件替换为 curl-7.57.0 & openssl-1.1.0g 版本的静态库和头文件<br />
 
 ### OpenSSL & libcurl 编译
 > 下载 ActivePerl、NASM，安装，配置环境变量<br />
